@@ -38,7 +38,7 @@ https://mavenanalytics.io/data-playground/toy-store-e-commerce-database
 
 ## Data Visualization
 
-![Maven Fuzzy Factory Dashboard](images/Screenshot_2026-10-10_235950.png)
+![Maven Fuzzy Factory Dashboard](Screenshot_2026-10-10_235950.png)
 
 The dashboard contains:
 
