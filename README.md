@@ -73,15 +73,3 @@ A `created_at (Year)` slicer (2012 to 2015) filters every chart at once.
 - 2015 only covers January to March, so it cannot be compared fairly with full years.
 - The `NULL` channel in the marketing chart represents sessions with no recorded campaign source.
 
-## How to Use
-
-1. Download the Excel workbook from this repository.
-2. Open it in Excel and go to the Dashboard sheet.
-3. Click a year in the `created_at (Year)` slicer to filter the charts.
-4. Click the clear filter icon on the slicer to reset.
-
-Power Pivot is included in Excel for Microsoft 365. If the Data Model does not load, enable it under File > Options > Add-ins > COM Add-ins > Microsoft Power Pivot for Excel.
-
-## Author
-
-Taiwo Ajiboye Muyideen
