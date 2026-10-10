@@ -26,7 +26,7 @@ https://mavenanalytics.io/data-playground/toy-store-e-commerce-database
 3. Loaded the tables into the Data Model and linked them in Power Pivot using the shared keys.
 4. Created measures such as total revenue, order count, session count, conversion rate, revenue per order and revenue per session.
 5. Built PivotTables and PivotCharts from the Data Model and arranged them on the dashboard.
-6. Added a `created_at (Year)` slicer to filter every chart by year.
+6. Added a slicer to filter every chart by year.
 
 ## Key Metrics
 
@@ -57,7 +57,7 @@ The slicer (2012 to 2015) filters every chart at once.
 1. 2014 was the breakout year. Revenue went from $393,248 (2013) to $1,075,612, about 2.7 times, and 2015 already has $340,376 from January to March alone.
 2. November and December are the peak months. Sessions reach 53,168 and 55,529 (against 29,058 in April), and orders reach 3,464 and 3,867 (against 1,893).
 3. Conversion and order value are steady. Conversion stays between 6.38% and 7.59% (6.83% overall), and revenue per order stays between $58.99 and $61.82.
-4. `gsearch` drives the business. It brings $1,276,144.89 and 21,333 orders (about 66% of both), while `socialbook` adds only $22,259.33 and 343 orders (about 1%).
+4. gsearch drives the business. It brings $1,276,144.89 and 21,333 orders (about 66% of both), while socialbook adds only $22,259.33 and 343 orders (about 1%).
 5. The Original Mr. Fuzzy is the top product. It sold 24,226 items and earned $1,211,057.74, about 60% of all items sold.
 
 ## Recommendations
@@ -65,11 +65,11 @@ The slicer (2012 to 2015) filters every chart at once.
 1. Keep investing in what drove the 2014 growth, and track whether 2015 keeps the same pace.
 2. Plan stock, staffing and promotions ahead of November and December, and run campaigns in the slow months (April to September) to lift traffic.
 3. Focus on growing traffic rather than conversion, since conversion and order value are already stable.
-4. Protect `gsearch` performance, and review `socialbook` and other small channels. Either improve them or cut the spend.
+4. Protect gsearch performance, and review socialbook and other small channels. Either improve them or cut the spend.
 5. Promote the other three products and bundle them with The Original Mr. Fuzzy to reduce reliance on one product.
 
 ## Notes
 
 - 2015 only covers January to March, so it cannot be compared fairly with full years.
-- The `NULL` channel in the marketing chart represents sessions with no recorded campaign source.
+- The NULL channel in the marketing chart represents sessions with no recorded campaign source.
 
