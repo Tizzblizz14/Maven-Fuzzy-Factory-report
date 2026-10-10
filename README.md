@@ -50,7 +50,7 @@ The dashboard contains:
 - Session-to-Order Conversion Rate
 - Product Revenue
 
-A `created_at (Year)` slicer (2012 to 2015) filters every chart at once.
+The slicer (2012 to 2015) filters every chart at once.
 
 ## Insights
 
